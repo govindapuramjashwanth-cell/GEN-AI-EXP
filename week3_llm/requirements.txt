@@ -1,0 +1,1 @@
+pytest\ngoogle-genai\npython-dotenv\npymongo\nrequests\n
